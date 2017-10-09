@@ -1,6 +1,6 @@
 # 1D-Cellular Automata
 
-Implementation of the Elementary Cellular Automata with wrapping sides in `Python 2.7`.
+Implementation of the Elementary Cellular Automata with wrapping sides in Python 2.7.
 
 ## Getting Started
 
